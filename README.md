@@ -1,1 +1,1 @@
-![](logo_transparente_1024.png)
+<img src="logo_transparente_1024.png" alt="Logo DELT UFPR" width="300"/>
