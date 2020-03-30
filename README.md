@@ -1,0 +1,1 @@
+![](logo_transparente_1024.png)
